@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kubernetes-Zero-to-Hero
 Creating this repo with an intent to make Kubernetes easy for begineers. This is a work-in-progress repo.
 
@@ -91,3 +92,6 @@ After a few mins, run the below command to verify the cluster installation.
 kops validate cluster demok8scluster.k8s.local
 ```
 
+=======
+# Complete-Kubernetes-From-the-Scratch
+>>>>>>> bcbc5c34169a5d83abfaff7d6d47629c752982bd
